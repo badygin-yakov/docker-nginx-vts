@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-LABEL maintainer="Kostya Esmukov <kostya@esmukov.ru>"
+LABEL maintainer="Yakov Badygin <yakov@badygin.ru>"
 
 ENV NGINX_VERSION 1.12.2
 ENV NGINX_VTS_COMMITISH v0.1.15
